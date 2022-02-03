@@ -20,4 +20,4 @@ A few has been made public. Mostly concerning the combination of PHP / MySQL / j
 ## Working on..
 React and Node frontends with php/mysql or node/mongo backends.
 
-Python data collectiong
+Python data collecting
